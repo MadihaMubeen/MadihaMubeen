@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MadihaMubeen
 - 👀 I’m interested in reading and writing 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me ...just follow🤝
 
 <!---
 MadihaMubeen/MadihaMubeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
